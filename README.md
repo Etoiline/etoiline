@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">Hi 👋, I'm Laura</h1>
+<h3 align="center">A frontend developer from France</h3>
+
+## 💻 Language and tools
+- Frontend web development (HTML/CSS, React js)
+- Python
+- Docker
+- Github
+- Visual Studio
+
+
+## 📅 Hobbies
+- Solve programming problems at Coding game, newbiecontest,
+- Horse riding and a lot of fitness
+- Play and listen music
+- Play videogames
+
+
+## 💻 Current status
+- looking for a job
+
+
+
