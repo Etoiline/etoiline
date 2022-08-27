@@ -1,0 +1,14 @@
+.main {
+  background-color: lightpink;
+  width:80%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.content {
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
