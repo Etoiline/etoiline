@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/etoiline/static/css/main.88586df5.css",
-    "main.js": "/etoiline/static/js/main.4d163662.js",
-    "static/js/787.128fc6e9.chunk.js": "/etoiline/static/js/787.128fc6e9.chunk.js",
-    "static/media/DSC_6610.JPG": "/etoiline/static/media/DSC_6610.e7a9d7a79a81ec42848d.JPG",
-    "static/media/kasa.png": "/etoiline/static/media/kasa.30691fe7cd91c64b7eb7.png",
-    "static/media/gameon.png": "/etoiline/static/media/gameon.220100e4873442799358.png",
-    "static/media/ohmyfood.png": "/etoiline/static/media/ohmyfood.fbec4be88d5ce829f10c.png",
-    "static/media/reservia.png": "/etoiline/static/media/reservia.0dc6789716a8c5d3dc57.png",
-    "static/media/bank.png": "/etoiline/static/media/bank.11bff04c5dea1f35a5ea.png",
-    "static/media/lespetitsplats.png": "/etoiline/static/media/lespetitsplats.ea80954d5e87a1f8cb1d.png",
-    "static/media/fisheye.png": "/etoiline/static/media/fisheye.0eb70290d96006ad72ec.png",
-    "static/media/sportsee.png": "/etoiline/static/media/sportsee.55de997d4e2295b8ef09.png",
-    "index.html": "/etoiline/index.html",
-    "main.88586df5.css.map": "/etoiline/static/css/main.88586df5.css.map",
-    "main.4d163662.js.map": "/etoiline/static/js/main.4d163662.js.map",
-    "787.128fc6e9.chunk.js.map": "/etoiline/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/static/css/main.88586df5.css",
+    "main.js": "/static/js/main.5008641f.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/DSC_6610.JPG": "/static/media/DSC_6610.e7a9d7a79a81ec42848d.JPG",
+    "static/media/kasa.png": "/static/media/kasa.30691fe7cd91c64b7eb7.png",
+    "static/media/gameon.png": "/static/media/gameon.220100e4873442799358.png",
+    "static/media/ohmyfood.png": "/static/media/ohmyfood.fbec4be88d5ce829f10c.png",
+    "static/media/reservia.png": "/static/media/reservia.0dc6789716a8c5d3dc57.png",
+    "static/media/bank.png": "/static/media/bank.11bff04c5dea1f35a5ea.png",
+    "static/media/lespetitsplats.png": "/static/media/lespetitsplats.ea80954d5e87a1f8cb1d.png",
+    "static/media/fisheye.png": "/static/media/fisheye.0eb70290d96006ad72ec.png",
+    "static/media/sportsee.png": "/static/media/sportsee.55de997d4e2295b8ef09.png",
+    "index.html": "/index.html",
+    "main.88586df5.css.map": "/static/css/main.88586df5.css.map",
+    "main.5008641f.js.map": "/static/js/main.5008641f.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88586df5.css",
-    "static/js/main.4d163662.js"
+    "static/js/main.5008641f.js"
   ]
 }
