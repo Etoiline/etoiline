@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 ## 💻 Current status
-- looking for a job
+- busy
 
 
 
