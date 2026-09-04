@@ -18,13 +18,13 @@ I enjoy building clear, responsive and accessible interfaces, understanding user
 
 ## 💻 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Mobile:** React Native
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js
+- **Mobile:** React Native, Expo
 - **State management:** Redux, React Hooks
 - **Backend / scripting:** Python
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, GitHub, Docker, Visual Studio Code
-- **Other:** Responsive design, accessibility, API integration, basic networking and security concepts
+- **Other:** Responsive design, accessibility, API integration, Codex AI, basic networking and security concepts
 
 ---
 
@@ -38,10 +38,6 @@ I always keep a critical approach: I read, test, correct and validate the code b
 
 ## 🌱 Currently improving
 
-- TypeScript
-- React Native
-- Clean code and application architecture
-- Testing and debugging practices
 - Backend development with Python and FastAPI
 
 ---
